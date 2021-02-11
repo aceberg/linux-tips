@@ -18,7 +18,7 @@ share:
   twitter: true
   gplus: true
   linkedin: true
-  pinterest: true
+  pinterest: false
   email: true
 
 social:
