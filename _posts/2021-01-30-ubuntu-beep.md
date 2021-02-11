@@ -9,10 +9,14 @@ tags:
 
 To enable beep in Ubuntu:
 
+{% raw %}
 apt install beep
+{% endraw %}
 
 in /etc/modprobe.d/blacklist.conf
 comment:
+{% highlight bash %}
 blacklist pcspkr
+{% endhighlight bash %}
 
 modprobe pcspkr
