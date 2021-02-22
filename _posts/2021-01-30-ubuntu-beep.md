@@ -2,7 +2,7 @@
 layout: post
 title: "Enable beep in Ubuntu"
 date: 2021-01-30 12:25:06
-share: true
+share: false
 tags: ubuntu desktop
 ---
 
